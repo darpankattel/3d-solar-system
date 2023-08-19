@@ -1,0 +1,14 @@
+﻿  glad.c
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\Non-Windows\Projects and Works\GRAPHICS\OpenGL-SolarSystem\main.cpp(47,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+D:\Non-Windows\Projects and Works\GRAPHICS\OpenGL-SolarSystem\main.cpp(48,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+D:\Non-Windows\Projects and Works\GRAPHICS\OpenGL-SolarSystem\main.cpp(167,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Non-Windows\Projects and Works\GRAPHICS\OpenGL-SolarSystem\main.cpp(167,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Non-Windows\Projects and Works\GRAPHICS\OpenGL-SolarSystem\main.cpp(241,24): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  stb_image.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 778 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DiamondEngine.vcxproj -> D:\Non-Windows\Projects and Works\GRAPHICS\OpenGL-SolarSystem\Release\DiamondEngine.exe
